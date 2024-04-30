@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Antoni Ferro</h1>
+<h1 align="center">Hola 👋, soy Antoni</h1>
 <h3 align="center">Soy un apasionado en crear aplicaciones webs, me encanta el diseño gráfico y la programación, disfruto mucho creando contenidos que viven en internet.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royantoni&label=Profile%20views&color=0e75b6&style=flat" alt="royantoni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royantoni" alt="royantoni" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ayoudev" target="blank"><img src="https://img.shields.io/twitter/follow/ayoudev?logo=twitter&style=for-the-badge" alt="ayoudev" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 Actualmente estoy aprendiendo **Nodejs, Livewire y MySql**
 
-- 💬 Ask me about **Laravel, Tailwindcss y Diseño Gráfico**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://ayoudev.com/portafolio](https://ayoudev.com/portafolio)
 
-- 📫 How to reach me **antoniferroafata@ayoudev.com**
+- 💬 Pregúntame sobre **Laravel, Tailwindcss y Diseño Gráfico**
+
+- 📫Contáctame al correo **antoniferroafata@ayoudev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayoudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoudev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayoudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoudev" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/ayoudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/ayoudev" height="30" width="40" /></a>
 </p>
 
